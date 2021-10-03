@@ -6,4 +6,4 @@ please comment in the comment box
 if you are beggining for learning c let's do it together!!
 
 
-!img(http://github.com/Nikesh-Bedari/LET_US_C/to/img.png)
+![image](http://github.com/Nikesh-Bedari/LET_US_C/to/img.png)
