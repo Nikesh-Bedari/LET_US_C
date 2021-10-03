@@ -7,3 +7,4 @@ if you are beggining for learning c let's do it together!!
 
 
 ![alt text](http://url/to/img.png)
+![alt text](https://github.com/Nikesh-Bedari/LET_US_C/blob/[branch]/image.jpg?raw=true)
