@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main(){
+
+    //print the name of the user by taking string inputs
+    char firstname[20],secondname[20];
+
+    //first name
+    printf("Enter your First name:\n");
+    scanf("%s",&firstname);
+
+    //second_name
+
+    printf("Enter your Second name:\n");
+    scanf("%s",&secondname);
+
+    //final program
+    printf("Hello %s %s",firstname,secondname);
+    
+    }
